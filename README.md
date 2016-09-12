@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning Homeworks for Columbia University Course
+Machine Learning Homeworks
 
 * Homework 1 - Maximum Likelihood, Bayes Rule, Linear Regression
 * Homework 2 - Multiclass Logistic Regression, Gaussian Kernels, Classification
